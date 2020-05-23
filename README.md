@@ -8,9 +8,6 @@
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
-
 ---
 
 ## Getting Started 🚀
@@ -275,25 +272,6 @@ Go to `src/styles/abstracts/_variables.scss` and only change the values on this 
 $main-color: #02aab0;
 $secondary-color: #00cdac;
 ```
-
-**NOTE**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
-
----
-
-## Deployment 📦
-
-Once you have done with your setup. You need to put your website online!
-
-I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
-
-Because this template use Webpack maybe you can get errors during deployment, Please watch my step-by-step video tutorial to successfully upload your Simplefolio Website on Netlify!
-
-**[WATCH NOW MY STEP-BY-STEP TUTORIAL FOR DEPLOYMENT](https://www.youtube.com/watch?v=soaG3GNSxJY)**
-
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
